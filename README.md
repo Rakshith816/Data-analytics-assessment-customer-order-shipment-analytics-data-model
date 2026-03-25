@@ -76,10 +76,10 @@ The proposed model supports answering:
 ## Repository Structure
 
 - [Detail Ask](docs/DataAnalystTask.pdf): Details of the task
-- [Raw Data Validation](sql/RawDataValidation) : Raw data validation checks 
+- [Raw Data Validation](sql/RawDataValidation.sql) : Raw data validation checks 
 - [Data modelling doc](docs/CustomerOrderAnalytics_DataModeling_RequirementsDocument.pdf): Data modeling document
 - [ERD](docs/ERD.png): Entity relationship diagram
 - [User story](docs/Data_Modeling_User_story.pdf): Data modeling user story 
-- [Business Questions](sql/Business_Questions_Queries) : Queries that answers business requirements  
-- [Rough](sql/'ROUGH_WORKBOOK) : Understanding the raw data  
+- [Business Questions](sql/Business_Questions_Queries.sql) : Queries that answers business requirements  
+- [Rough](sql/'ROUGH_WORKBOOK.sql) : Understanding the raw data  
 - [data](data/)  : data
