@@ -81,5 +81,5 @@ The proposed model supports answering:
 - [ERD](docs/ERD.png): Entity relationship diagram
 - [User story](docs/Data_Modeling_User_story.pdf): Data modeling user story 
 - [Business Questions](sql/Business_Questions_Queries.sql) : Queries that answers business requirements  
-- [Rough](sql/'ROUGH_WORKBOOK.sql) : Understanding the raw data  
+- [Rough](sql/ROUGH_WORKBOOK.sql) : Understanding the raw data  
 - [data](data/)  : data
